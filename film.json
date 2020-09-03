@@ -17,12 +17,13 @@
       "Personnage": "Walter Nelson (voix)"
     }
   ]
-
-  "Titre": "Fight Club",
-  "directeur": "David Fincher",
-  "Auteur": "Chuck Palahniuk, Jim Ulhs",
-  "Date": 1999,
-  "Vedette": [
+}
+{
+  "Titre1": "Fight Club",
+  "directeur1": "David Fincher",
+  "Auteur1": "Chuck Palahniuk, Jim Ulhs",
+  "Date1": 1999,
+  "Vedette1": [
     {
       "Nom": "Brad Pitt",
       "Personnage": "Tyler Durden"
